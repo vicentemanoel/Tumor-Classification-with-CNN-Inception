@@ -1,4 +1,4 @@
-# Tumor classificatio with CNN Inception
+# Tumor Classification with CNN Inception
 
 ## 📚 Objective
 The main objective of this project is to develop a deep learning model for image classification based on the **InceptionV3** architecture.  
